@@ -1,5 +1,13 @@
+ h1{
+    color: #1d49aa
+ }
+ .carts p{
+    color: gray;
+ }
+ 
  body{
-    font-family: ;
+    
+    font-family:  ;
     padding-left: 50px;
     padding-right: 50px;
     margin-right: auto;
@@ -105,6 +113,9 @@ main form p{
     margin-top: 55px;
     margin-bottom: 30px;
 
+}
+.carts>img{
+    width:20% ;
 }
 .carts>h2{
     margin: 0;
