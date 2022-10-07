@@ -1,18 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
  h1{
     color: #1d49aa
  }
  .carts p{
     color: gray;
  }
- 
- body{
-    
-    font-family:  ;
+  body{
+    font-family: 'Karla', sans-serif;
     padding-left: 50px;
     padding-right: 50px;
     margin-right: auto;
     margin-left: auto;
-    background-color: antiquewhite;
+    background-color: #FBF7EE; 
 }
 header img {
     margin-top: auto;
@@ -23,7 +23,7 @@ header{
     justify-content: space-between;
 }
 .menu{
-    background-color: antiquewhite; 
+    background-color: #FBF7EE; 
     display: flex;
 }
  a { 
@@ -130,7 +130,7 @@ main form p{
    width: 100%;
 }
 .carts2{
-    background-color: bisque;
+    background-color: antiquewhite;
     margin: 0px;
    margin: 15px;
    padding: 15px;
