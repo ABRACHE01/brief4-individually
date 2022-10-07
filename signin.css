@@ -59,6 +59,10 @@ p{
 form>button{
    background-color: rgb(15, 234, 77);
 }
+a{
+   text-decoration: none;
+   color: aliceblue;
+}
 @media(max-width: 600px){
    header{
       display: flex;
