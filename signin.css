@@ -3,7 +3,9 @@
 #logo{
    width: 100px;
 }
-
+p>img{
+   width: 20px;
+}
 
 *{
    font-family: 'Karla', sans-serif;
@@ -13,15 +15,17 @@ body{
    background-color: #FBF7EE; 
 }
 h1{
-   padding: 20px;
-   border-radius: 10px;
-   background-color: aquamarine;
-   color: #1d49aa
+
+   padding: 15px;
+   border-radius: 25px;
+   background-color: rgb(15, 234, 77) ;
+   color: #1d49aa;
 }
 p{
   margin: 0px;
   }
 .button{
+   border:solid 1px;
    background: #4676D7;
    color: #fff;
    width: 40%;
@@ -37,12 +41,12 @@ p{
    grid-template-rows: auto ;
 }
 .content{
-  
    text-align: center;
    width:100% ;
    height:200px ;
 }
 .input{
+   border: 1px solid ;
    font-size: medium;
    text-align: center;
    width: 40%;
@@ -66,3 +70,4 @@ form>button{
    .button{
       width: 100%;
    }
+}

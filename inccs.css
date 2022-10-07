@@ -41,7 +41,7 @@ header h4{
 
 }
 button:hover {
-    background: #1d49aa;
+    background:#1d49aa;
   }
  header>div>button{
     appearance: none;
@@ -153,11 +153,12 @@ main form p{
 }
 
 #adsCart{
+
     text-align: center;
     margin-top: 15px;
     border: 3px solid rgb(152, 106, 27) ;
     border-radius:5px; 
-    height: 250px;
+    height: 100%;
    
 }
 
@@ -183,7 +184,7 @@ header{
     }
     
     .sec1{
-        width: 100%;
+        width:105%;
        
         }
     
@@ -212,17 +213,18 @@ header{
        
     }
     #adsCart{
-        justify-items: center;
         width: 50%;
+        height: auto;
 
     }
     #adsCart>img{
-        width: 70% ;
+        width: 100% ;
+       
     }
     
     .menu{
         justify-content: center;
-        
+     
     }
 
     
